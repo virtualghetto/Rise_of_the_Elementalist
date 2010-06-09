@@ -1,0 +1,27 @@
+border_size=1
+usage=map
+
+Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Ur          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Uh          , Xu          , Xos         , Ur          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Uh          , Uh          , Uh          , Uh          , Xos         , Xos         , Xu          , Kud         , Xu          , Xu          , Xu          
+Xu          , Uh          , Uh          , Uh          , Uh          , Uu          , Ur          , Xos         , Ur          , Ur          , Uu^Vud      , Xu          
+Xu          , Uh          , Uh          , Uh          , Xu          , Xu          , Xu          , Xu          , Xu          , Ur          , Ur          , Xu          
+Xu          , Uh          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xos         , Ur          , Ur          , Xu          
+Xu          , Xu          , Qxu         , Qxu         , Qxu         , Qxu         , Qxu         , Uu^Vud      , Uh          , Xos         , Xos         , Xu          
+Xu          , Qxu         , Qxu         , Qxu         , Qxu         , Qxu         , Ur          , Qxu^Bs/     , Qxu         , Uu          , Uu^Uf       , Xu          
+Xu          , Qxu         , Qxu         , Qxu         , Qxu         , Ur          , Ur          , Ur          , Qxu         , Qxu         , Qxu         , Xu          
+Xu          , Qxu         , Qxu         , Qxu         , Qxu         , Ur          , Xos         , Ur          , Qxu         , Qxu         , Qxu         , Xu          
+Xu          , Qxu         , Qxu         , Qxu         , Xu          , Xos         , Kud         , Xos         , Xu          , Qxu         , Qxu         , Xu          
+Xu          , Qxu         , Xu          , Xu          , Xu          , Xos         , Xos         , Xos         , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Xu          , Ww          , Ww          , Wwf         , Ww          , Ww          , Xu          , Xu          , Xu          
+Wo          , Wo          , Ww          , Ww          , Ww          , Wwf         , Ww          , Ww          , Ww          , Ww          , Wo          , Wo          
+Xu          , Xu          , Xu          , Xu          , Xu          , Wwf         , Xu          , Xu          , Xu          , Ww          , Wo          , Wo          
+Qlf         , Xu          , Xu          , Xu          , Xu          , Xos         , Kud         , Xu          , Xu          , Xu          , Xu          , Wo          
+Qlf         , Qlf         , Qlf         , Xu          , Xu          , Xu          , Ur          , Xu          , Uu^Vu       , Xu          , Xu          , Xu          
+Qlf         , Qlf         , Qlf         , Xu          , Xos         , Ur          , Xu          , Ur          , Xu          , Xu          , Xu          , Xu          
+Qlf         , Qlf         , Qlf         , Uu          , Uu          , Xos         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Uu          , Uh          , Xos         , Kud         , Uu^Vud      , Xu          , Xu          , Xu          , Xu          
+Qxu         , Xu          , Xu          , Xu          , Xu          , Xu          , Uu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Qxu         , Qxu         , Qxu         , Qxu         , Qxu         , Xu          , Qxu^Bs|     , Xu          , Qxu         , Xu          , Qxu         , Qxu         
+Qxu         , Qxu         , Qxu         , Qxu         , Xu          , Qxu         , 1 Qxu^Bs|   , Qxu         , Xu          , Qxu         , Qxu         , Qxu         
+Xu          , Qxu         , Xu          , Xu          , Xu          , Xu          , Ur          , Xu          , Xu          , Xu          , Xu          , Xu          
