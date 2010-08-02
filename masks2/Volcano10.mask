@@ -1,0 +1,18 @@
+border_size=1
+usage=map
+
+_f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , _f          , _f          , _f          , Qlf         , Qlf         , _f          , _f          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , _f          , _f          , Qlf         , Qlf         , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , _f          , Qlf         , Qlf         , Qlf         , Qlf         , Hh          , Hh          , Qlf         , _f          , Qlf         , _f          , _f          
+_f          , _f          , _f          , _f          , Hh          , Qlf         , Qlf         , Mm          , Mm          , Qlf         , Qlf         , Qlf         , _f          , _f          , _f          
+_f          , _f          , _f          , Hh          , Mm          , Mm          , Mm          , Mm^Xm       , Mm          , Qlf         , Mm          , Qlf         , _f          , _f          , _f          
+_f          , _f          , Hh          , Hh          , Mm          , Mm^Xm       , Ql          , Ql          , Ql          , Mm^Xm       , Mm          , Hh          , Hh          , _f          , _f          
+_f          , _f          , Hh          , Mm          , Cud         , Cud         , Ql          , Ql          , Ql          , Mm          , Qlf         , Hh          , Qlf         , _f          , _f          
+_f          , _f          , Hh          , Mm          , Cud         , Kud         , Cud         , Ql          , Mm^Xm       , Mm^Xm       , Mm          , Qlf         , Qlf         , Qlf         , _f          
+_f          , _f          , _f          , Hh          , Hh          , Cud         , Qlf         , Mm^Xm       , Mm          , Mm          , Hh          , Qlf         , Qlf         , _f          , _f          
+_f          , _f          , _f          , _f          , Qlf         , Qlf         , Hh          , Mm          , Hh          , Hh          , Hh          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , Qlf         , Qlf         , Qlf         , Qlf         , Hh          , _f          , Hh          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , Qlf         , _f          , Qlf         , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , _f          , _f          , Qlf         , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          
+_f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          , _f          
