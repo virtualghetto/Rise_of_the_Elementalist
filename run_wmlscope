@@ -1,0 +1,10 @@
+#!/bin/bash
+
+WESNOTH_HOME="/Applications/Wesnoth/Wesnoth 1.9.app/Contents/Resources"
+TOOLS_DIR="$WESNOTH_HOME/data/tools"
+CORE_DIR="$WESNOTH_HOME/data/core"
+
+cd $(dirname 0)
+ADD_ON_DIR=$(pwd -P)
+#echo "$TOOLS_DIR/wmlscope" "$CORE_DIR" "$ADD_ON_DIR"
+"$TOOLS_DIR/wmlscope" --unresolved "$CORE_DIR" "$ADD_ON_DIR" 2>&1 | tee $(pwd)/wmlscope-run.log 
