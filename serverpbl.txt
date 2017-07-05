@@ -1,6 +1,6 @@
 icon="data/core/images/units/human-magi/silver-mage.png~RC(magenta>blue)"
 title="Rise of the Elementalist"
-version="5.1.0"
+version="5.1.1"
 author="Drew"
 description="Part 1: Tragedy and loss leads a young mage down a unique path to explore the magic of the world.
 Part 2: The demon awakes from his imprisonment with revenge on his mind. Can you conquer the world?
